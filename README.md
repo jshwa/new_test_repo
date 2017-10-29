@@ -1,1 +1,1 @@
-another test
+These tests are boring
